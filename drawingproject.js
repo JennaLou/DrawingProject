@@ -36,4 +36,51 @@ canvas.arc(730,350,16,0,2*Math.PI,true);
 canvas.fill();
 
 canvas.fillStyle = "black";
-canvas.fillRect(530, 510, 260, 4);
+canvas.fillRect(540, 510, 260, 4);
+
+canvas.fillStyle = "white";
+canvas.fillRect(590, 513, 55, 50);
+
+canvas.fillStyle = "white";
+canvas.fillRect(674, 513, 55, 50);
+
+canvas.beginPath();
+canvas.fillStyle = "#558000";
+canvas.arc(480,200,35,0,2*Math.PI,true);
+canvas.fill();
+
+canvas.beginPath();
+canvas.fillStyle = "#558000";
+canvas.arc(480,285,20,0,2*Math.PI,true);
+canvas.fill();
+
+canvas.beginPath();
+canvas.fillStyle = "#558000";
+canvas.arc(810,260,20,0,2*Math.PI,true);
+canvas.fill();
+
+canvas.beginPath();
+canvas.fillStyle = "#558000";
+canvas.arc(480,580,20,0,2*Math.PI,true);
+canvas.fill();
+
+canvas.beginPath();
+canvas.fillStyle = "#558000";
+canvas.arc(480,650,35,0,2*Math.PI,true);
+canvas.fill();
+
+canvas.beginPath();
+canvas.fillStyle = "#558000";
+canvas.arc(810,580,35,0,2*Math.PI,true);
+canvas.fill();
+
+canvas.beginPath();
+canvas.fillStyle = "#558000";
+canvas.arc(810,650,20,0,2*Math.PI,true);
+canvas.fill();
+
+canvas.fillStyle = "#b35900";
+canvas.fillRect(400, 700, 500, 100);
+
+canvas.fillStyle = "black";
+canvas.fillRect(410, 740, 110, 25);
