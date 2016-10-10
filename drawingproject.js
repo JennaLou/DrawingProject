@@ -83,4 +83,22 @@ canvas.fillStyle = "#b35900";
 canvas.fillRect(400, 700, 500, 100);
 
 canvas.fillStyle = "black";
-canvas.fillRect(410, 740, 110, 25);
+canvas.fillRect(430, 740, 110, 25);
+
+canvas.fillStyle = "black";
+canvas.fillRect(590, 740, 110, 25);
+
+canvas.fillStyle = "black";
+canvas.fillRect(740, 740, 110, 25);
+
+canvas.fillStyle = "white";
+canvas.fillRect(900, 450, 90, 90);
+
+canvas.fillStyle = "white";
+canvas.fillRect(310, 450, 90, 90);
+
+canvas.fillStyle = "yellow";
+canvas.fillRect(920, 540, 50, 200);
+
+canvas.fillStyle = "yellow";
+canvas.fillRect(330, 540, 50, 200);
